@@ -6,23 +6,32 @@
 - Hành động hay tĩnh?
 - Thời điểm nào trong ngày
 - Không gian như thế nào?
-- Góc máy như thế nào?
+- Góc máy như thế nào? Focus vào vật thể, trên hay dưới bầu trời.
 - 3 Vật thể quan trọng trong scene là gì? Có cần design không?
 - Màu sắc như thế nào?
 - Ánh sáng như thế nào?
   
 ## Tìm References
 
-1. Bỏ khoảng 30 phút ra để tìm references thích hợp cho các ý ở trên.
-2. Xác định được hình có thông tin màu sắc/ ánh sáng phù hợp nhất.
-3. 
+1. Dành ra khoảng 30 phút - 1 tiếng , để tìm references thích hợp cho các ý ở trên.
+2. Xác định được hình ảnh có thông tin màu sắc/ ánh sáng phù hợp nhất. [Eytan Zana]
 
 ## Vẽ sketch line.
+
+- Vẽ line [Craig Mullins] [Jaime Jones]
+- Vẽ sketch, Bold, 2 - 3 value -> thể hiện được bố cục tranh.
+- Mask opacity các layer để vẽ màu đè lên nét và mảng.
+
 ## Block khối
-- Mask khối
+
+
+- Mask khối 
 - Lưu ý kĩ các loại shadows
 
+=> Xem các tranh của John J Park
+
 > Nguyên lý Barcode
+
 > Nguyên lý BMS
 
 > Function tạo nên vẻ đẹp. Design kĩ
@@ -31,6 +40,7 @@
 
 ## Over-paint
 
+- Focal point có thật sự đạt được sự chú ý không? Các vật thể khác có ảnh hưởng không?
 - Variation màu để tạo sự tự nhiên
 - Keep it simple.
 - Vật thể chính là gì? Có bị lấn át không?
