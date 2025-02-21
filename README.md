@@ -1,11 +1,13 @@
-# Luân Hà Trọng  [Artpages](https://luanhadev.github.io/luna-artpage/#/)
+# Luân Hà Trọng Artpages 
 
-> A simple [Docsify](https://github.com/docsifyjs/docsify/) template
+> Sử dụng [Docsify](https://github.com/docsifyjs/docsify/) template
 
-## Site Setup - test.
+## Giới thiệu.
 
-### Static Webserver
-Upload these template files to any static web server. The file `.nojekyll` is only required if hosting the site on GitHub Pages and otherwise can be removed.
+### Mạng xã hội
+
+1. Facebook : https://www.facebook.com/luanha.art/
+2. X / Twitter : https://x.com/luanhatrong
 
 ### GitHub Pages
 
