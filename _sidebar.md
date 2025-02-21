@@ -1,2 +1,2 @@
 - [Read Me](README)
-- [Example Second Page](second-page)
+- [Quy trình vẽ](paint-workflow)
