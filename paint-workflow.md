@@ -2,14 +2,13 @@
 
 ## Nắm kĩ ý tưởng, yêu cầu 
 
-- Vẽ về cái gì?
+- Vẽ về cái gì? Vật thể hay con người trong môi trường.
 - Hành động hay tĩnh?
-- Thời điểm nào trong ngày
-- Không gian như thế nào?
+- Không gian xung quanh như thế nào?
 - Góc máy như thế nào? Focus vào vật thể, trên hay dưới bầu trời.
-- 3 Vật thể quan trọng trong scene là gì? Có cần design không?
-- Màu sắc như thế nào?
-- Ánh sáng như thế nào?
+- 1 - 3 Vật thể quan trọng trong scene là gì? Có cần design không?
+- Màu sắc như thế nào? 
+- Ánh sáng như thế nào? Thời điểm nào trong ngày ?
   
 ## Tìm References
 
