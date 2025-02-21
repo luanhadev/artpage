@@ -1,4 +1,4 @@
-# Luân Hà Trọng [Artpages](https://github.com/docsifyjs/docsify/](https://luanhadev.github.io/luna-artpage/#/)
+# Luân Hà Trọng [Artpages](https://luanhadev.github.io/luna-artpage/#/)
 
 > A simple [Docsify](https://github.com/docsifyjs/docsify/) template
 
