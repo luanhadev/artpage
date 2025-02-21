@@ -1,8 +1,6 @@
-# Luân Hà Trọng Artpages 
-
 > Sử dụng [Docsify](https://github.com/docsifyjs/docsify/) template
 
-## Mạng xã hội
+# Mạng xã hội
 
 1. Facebook : https://www.facebook.com/luanha.art/
 2. X / Twitter : https://x.com/luanhatrong
