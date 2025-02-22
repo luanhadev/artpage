@@ -1,2 +1,2 @@
-- [About](About)
+- [About](README)
 - [Quy trình vẽ](paint-workflow)
