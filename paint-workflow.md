@@ -15,7 +15,7 @@
 - Dành ra khoảng 30 phút - 1 tiếng , để tìm references thích hợp cho các ý ở trên.
 - Xác định được hình ảnh có thông tin màu sắc/ ánh sáng phù hợp nhất. [Eytan Zana]
 
-## Vẽ sketch line.
+## Vẽ sketch line
 
 - Vẽ line [Craig Mullins] [Jaime Jones]
 - Tham khảo cách vẽ của các anime style artist - Youtube
@@ -43,17 +43,17 @@
 - Block khối để đặt cam.
 - Lưu ý tỉ lệ khung hình render
 
-## Phối cảnh:
+## Phối cảnh
 
 - tỉ lệ scale xa gần các object đã đúng chưa?
 - Đúng phối cảnh chưa? So sánh với lưới phối cảnh.
   
-## Phân tích Ánh sáng:
+## Phân tích Ánh sáng
 
 - Ánh sáng chính ở đâu? Cường độ ánh sáng lên vật thể xa gần đúng chưa?
 - Ở xa độ tương phản sắc độ không cao (low contrast); Và ngược lại
 
-## Phân tích Màu sắc:
+## Phân tích Màu sắc
 
 - Ở xa thường màu sắc dull hơn ở gần, độ tương phản màu sắc không cao; Và ngược lại.
 
@@ -65,3 +65,12 @@
 - Vật thể chính là gì? Có bị lấn át không?
 - Mật độ chi tiết trong scene phân bố như thế nào ?
 - Nhìn qua các artist như Craig Mullins, Matt Allsopp,...
+
+## Photo web
+
+- [Pexels](https://www.pexels.com)
+- [Unsplash](https://unsplash.com)
+- [Pixabay](https://pixabay.com)
+- [Flickr](https://www.flickr.com/search/)
+
+
