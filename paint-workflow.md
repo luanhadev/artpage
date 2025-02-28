@@ -12,6 +12,7 @@
   
 ##  Tìm References
 
+- Chia ra mood, environment, character, detail pattern
 - Dành ra khoảng 30 phút - 1 tiếng , để tìm references thích hợp cho các ý ở trên.
 - Xác định được hình ảnh có thông tin màu sắc/ ánh sáng phù hợp nhất. [Eytan Zana]
 
@@ -20,6 +21,7 @@
 - Vẽ line [Craig Mullins] [Jaime Jones]
 - Tham khảo cách vẽ của các anime style artist - Youtube
 - Vẽ sketch, Bold, 2 - 3 value -> thể hiện được bố cục tranh.
+- Vẽ shape chỉ có ánh sáng và bóng tối.
 - Mask opacity các layer để vẽ màu đè lên nét và mảng.
 - Feel được không gian chưa? Độ lớn? Độ cận-xa
 
@@ -40,7 +42,8 @@
 
 ##  Sử dụng Blender để dựng Block và đặt ánh sáng
 
-- Block khối để đặt cam.
+- Block khối để đặt atmosphere, đặt cam.
+- sử dụng 3d để block ra ít nhất 5 khối
 - Lưu ý tỉ lệ khung hình render
 
 ##  Phối cảnh
