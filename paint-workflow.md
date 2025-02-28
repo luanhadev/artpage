@@ -18,6 +18,18 @@
 
 ##  Vẽ sketch line
 
+- 3 nguyên tắc chính :
+  - Độ tương phản (Shape: hình sáng vuông tròn; Color: độ đối hue, saturation, warm-cool; Value : Light vs Dark, Texture : details),
+  - Sự nhấn mạnh: Xác định khu vực người chơi nhìn vào, cũng là nội dung nhấn mạnh của cả bức vẽ.
+  - Sự lặp lại: dùng các yếu tố giống nhau, tương tự nhau (Shape & Color ) -> thống nhất và gắn kết
+
+- Suy nghĩ về `Story` đầu tiên:
+
+- Shape:
+  - Box , Rectangle :  Mạnh mẽ, công nghiệp, to lớn, ổn định và chắc chắn
+  - Hình cong, tròn :  Bình tĩnh, mềm mại, dễ thương, hữu cơ - sinh học
+  - Tam giác  : Nguy hiểm, chết người, Alien, Khó chịu, Sắc bén.
+  
 - Vẽ line [Craig Mullins] [Jaime Jones]
 - Tham khảo cách vẽ của các anime style artist - Youtube
 - Vẽ sketch, Bold, 2 - 3 value -> thể hiện được bố cục tranh.
@@ -26,6 +38,7 @@
 - Feel được không gian chưa? Độ lớn? Độ cận-xa
 
 ##  Block khối
+
 
 - Mask khối 
 - Lưu ý kĩ các loại shadows
@@ -69,6 +82,8 @@
 - Mật độ chi tiết trong scene phân bố như thế nào ?
 - Nhìn qua các artist như Craig Mullins, Matt Allsopp,...
 
+- Keep it simple and graphic
+
 ##  Photo web
 
 - [Pexels](https://www.pexels.com)
@@ -76,4 +91,8 @@
 - [Pixabay](https://pixabay.com)
 - [Flickr](https://www.flickr.com/search/)
 
+## Hoạ sĩ tham khảo
 
+- [Eytan](https://www.artstation.com/eytan)
+- [Sung Choi](https://sungchoiart.com/gallery)
+- [Jaime Jones](https://www.artpad.org)
