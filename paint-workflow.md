@@ -6,6 +6,7 @@
 - Hành động hay tĩnh?
 - Không gian xung quanh như thế nào?
 - Góc máy như thế nào? Focus vào vật thể, trên hay dưới bầu trời.
+- Story trong scene là gì? 5 chi tiết / vật thể thể hiện được story.
 - 1 - 3 Vật thể quan trọng trong scene là gì? Có cần design không?
 - Màu sắc như thế nào?
 - Ánh sáng như thế nào? Thời điểm nào trong ngày ?
@@ -29,7 +30,9 @@
   - Box , Rectangle :  Mạnh mẽ, công nghiệp, to lớn, ổn định và chắc chắn
   - Hình cong, tròn :  Bình tĩnh, mềm mại, dễ thương, hữu cơ - sinh học
   - Tam giác  : Nguy hiểm, chết người, Alien, Khó chịu, Sắc bén.
-  
+
+- Vẽ / Design ra toàn bộ chi tiết / vật thể miêu tả story, ĐẶC BIỆT là 3 chi tiết chính. 
+- Những chi tiết PHẢI vẽ : Có shape khó dựng khi paint (Ánh sáng, khối 3 chiều) -> thuận tiện để dễ dựng 3D 
 - Vẽ line [Craig Mullins] [Jaime Jones]
 - Tham khảo cách vẽ của các anime style artist - Youtube
 - Vẽ sketch, Bold, 2 - 3 value -> thể hiện được bố cục tranh.
