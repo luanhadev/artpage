@@ -19,6 +19,17 @@
 
 ##  Vẽ sketch line
 
+- Epic scale :
+  - Contrast of size :  Khi đặt 2 vật scale khác nhau, mình sẽ thấy được độ lớn của các vật thể
+  - Camera angle: Góc cam luôn đặt ở mắt con người, nên scene to thì nhìn lên (hơi có độ hút) hoặc trên bầu trời nhìn xuống.
+  - Composition : Nếu cần thiết, vật to sẽ không chứa đủ trong hình (cắt frame)
+  - Tỉ lệ: Suy nghĩ là những vật to thì shape trên nhỏ dưới to. Nói chung nên cân nhắc design vật thể có thể đứng yên độc lập, vững vàng và cân bằng.
+  - Tỉ lệ tương đối: Không phải mọi vật to hơn thì nó sẽ giữ tỉ lệ, luôn luôn design lại những thành phần theo tỉ lệ con người:
+      - ví dụ khi phóng to toà nhà, các cửa sổ phải scale lại tỉ lệ so với con người (thay vì chỉ việc `phóng to ` một cách vụng về)
+      - Đặt các object có tỉ lệ mà con người biết (nhiều con người, bầy chim chóc,...) để người xem dễ-dàng nhận ra tỉ lệ của Object.
+  - Sự lặp lại: Những thứ to lặp lại, mang lại một cảm-giác tự nhiên, thú vị, nó giống như một sự hiển nhiên trong scene -> Được thuyết phục.
+
+
 - 3 nguyên tắc chính :
   - Độ tương phản (Shape: hình sáng vuông tròn; Color: độ đối hue, saturation, warm-cool; Value : Light vs Dark, Texture : details),
   - Sự nhấn mạnh: Xác định khu vực người chơi nhìn vào, cũng là nội dung nhấn mạnh của cả bức vẽ.
@@ -78,6 +89,8 @@
 
 ##  Over-paint
 
+- Texture - Detail : Object to thì texture nhỏ, những thứ to thì sẽ không phẳng hoàn toàn -> Có những vùng detail nhấp nhô, không được hoàn hảo.
+- Atmosphere : -> Scene càng lớn thì depth sâu -> object ở xa sẽ blend vào nền xa.
 - Focal point có thật sự đạt được sự chú ý không? Các vật thể khác có ảnh hưởng không?
 - Variation màu để tạo sự tự nhiên, tuy nhiên độ shift variation không cao.
 - Keep it simple.
