@@ -1,2 +1,2 @@
 - [About](README)
-- [ ](paint-workflow)
+- [⠀](paint-workflow)
