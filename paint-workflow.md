@@ -57,7 +57,9 @@
 
 ##  Block khối
 
-
+- Chia khối ánh sáng & bóng đổ rất rõ, giúp hình ảnh dễ đọc.
+- Không quá chi tiết vào các khu vực phụ, tập trung vào focal point.
+- Bố cục cinematic, dùng các hình khối lớn để dẫn hướng mắt.
 - Mask khối 
 - Lưu ý kĩ các loại shadows
 
@@ -93,6 +95,8 @@
 
 ##  Over-paint
 
+- Cần chú ý đến tỷ lệ (scale) và chất liệu (material rendering).
+
 - Texture - Detail : Object to thì texture nhỏ, những thứ to thì sẽ không phẳng hoàn toàn -> Có những vùng detail nhấp nhô, không được hoàn hảo.
 - Atmosphere : -> Scene càng lớn thì depth sâu -> object ở xa sẽ blend vào nền xa.
 - Focal point có thật sự đạt được sự chú ý không? Các vật thể khác có ảnh hưởng không?
@@ -101,7 +105,12 @@
 - Vật thể chính là gì? Có bị lấn át không?
 - Mật độ chi tiết trong scene phân bố như thế nào ?
 - Nhìn qua các artist như Craig Mullins, Matt Allsopp,...
-
+- Thường có màu xanh lạnh + vàng ấm (cặp màu cinematic kinh điển).
+- Thích dùng tone màu đất (warm brown, orange, yellow) kết hợp với xanh dương lạnh.
+- Áp dụng atmospheric perspective (xa mờ, gần rõ) để tạo chiều sâu.
+- Dùng nhân vật nhỏ trong cảnh quan lớn để tăng sự hoành tráng.
+- Luôn có ít nhất 3 lớp trong tranh (foreground, midground, background).
+- Dùng rim light để tách vật thể ra khỏi nền.
 - Keep it simple and graphic
 
 ##  Photo web
