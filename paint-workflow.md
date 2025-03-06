@@ -10,7 +10,7 @@
 - 1 - 3 Vật thể quan trọng trong scene là gì? Có cần design không?
 - Màu sắc như thế nào?
 - Ánh sáng như thế nào? Thời điểm nào trong ngày ?
-  
+
 ##  References
 
 - Chia ra mood, environment, character, detail pattern
