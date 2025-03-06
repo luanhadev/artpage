@@ -19,6 +19,10 @@
 
 ##  Vẽ sketch line
 
+- Object chính / Khu vực focus:
+  - PHẢI nằm trọn trong scene, khoảng 1/2 chiều dọc/ ngang khung hình.
+  - Nếu không có con người thì có thể lớn hơn xíu, không quá 3/4 chiều ngang/ dọc khung hình
+ 
 - Epic scale :
   - Contrast of size :  Khi đặt 2 vật scale khác nhau, mình sẽ thấy được độ lớn của các vật thể
   - Camera angle: Góc cam luôn đặt ở mắt con người, nên scene to thì nhìn lên (hơi có độ hút) hoặc trên bầu trời nhìn xuống.
