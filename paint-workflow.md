@@ -11,7 +11,7 @@
 - Màu sắc như thế nào?
 - Ánh sáng như thế nào? Thời điểm nào trong ngày ?
   
-##  Tìm References
+##  References
 
 - Chia ra mood, environment, character, detail pattern
 - Dành ra khoảng 30 phút - 1 tiếng , để tìm references thích hợp cho các ý ở trên.
