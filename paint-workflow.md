@@ -96,7 +96,7 @@
 ##  Over-paint
 
 - Cần chú ý đến tỷ lệ (scale) và chất liệu (material rendering).
-- ** Suy nghĩ thử xem, màu sắc saturation như thế nào, có ambient màu khác tác động không, bản chất màu diffuse là gì? Chơi đùa với màu sắc đi bạn **
+- Suy nghĩ thử xem, màu sắc saturation như thế nào, có ambient màu khác tác động không, bản chất màu diffuse là gì? Chơi đùa với màu sắc đi bạn
 - Texture - Detail : Object to thì texture nhỏ, những thứ to thì sẽ không phẳng hoàn toàn -> Có những vùng detail nhấp nhô, không được hoàn hảo.
 - Atmosphere : -> Scene càng lớn thì depth sâu -> object ở xa sẽ blend vào nền xa.
 - Focal point có thật sự đạt được sự chú ý không? Các vật thể khác có ảnh hưởng không?
